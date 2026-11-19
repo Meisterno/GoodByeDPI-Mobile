@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GoodbyeDPI TR</string>
+    <string name="subtitle_turkey_edition">Türkiye DPI Bypass &amp; DNS Yönlendirici</string>
+    <string name="tab_home">Koruma</string>
+    <string name="tab_config">Parametreler</string>
+    <string name="tab_dns_diag">DNS &amp; Test</string>
+    <string name="tab_logs">Kayıtlar</string>
+    <string name="status_active">DPI KORUMASI AKTİF</string>
+    <string name="status_inactive">KORUMA DEVRE DIŞI</string>
+    <string name="status_connecting">TÜNEL BAŞLATILIYOR...</string>
+    <string name="btn_start_service">Korumayı Başlat</string>
+    <string name="btn_stop_service">Korumayı Durdur</string>
+    <string name="label_select_isp_preset">İSS (İnternet Servis Sağlayıcı) Profili</string>
+    <string name="label_active_command">Aktif GoodbyeDPI Komut Dizisi</string>
+    <string name="label_telemetry">Canlı Paket &amp; Desync Telemetrisi</string>
+    <string name="label_packets_inspected">İşlenen Paket</string>
+    <string name="label_sni_fragmented">SNI Parçalanan</string>
+    <string name="label_dns_redirected">DNS Yönlendirilen</string>
+    <string name="label_active_mtu">Tünel MTU</string>
+    <string name="notif_channel_name">GoodbyeDPI TR Tünel Servisi</string>
+    <string name="notif_title_active">GoodbyeDPI-Turkey Aktif</string>
+    <string name="notif_desc_active">DPI Paket Parçalama ve DNS Yönlendirme çalışıyor</string>
+</resources>
